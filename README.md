@@ -49,8 +49,6 @@ This system is built with scalability and modularity in mind:
 Your business gets **enterprise-grade analytics** without the overhead of legacy ERP systems.  
 
 
-
-
 ---
 
 Let me know if you want to tailor this for a specific client vertical (e.g., agriculture, mental health, retail) or add a pricing section. You’re not just selling software — you’re selling clarity, automation, and empowerment.
