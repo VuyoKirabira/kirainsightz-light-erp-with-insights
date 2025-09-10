@@ -1,6 +1,6 @@
 # kirainsightz-light-erp-with-insightz
 
-# Kirabira Insightz ERP-lite System
+link to YouTube demo - https://youtu.be/oitCMqeU-yA?si=Z67W1-zUXB8jPpyw
 
 ## 🚀 Overview
 Kirabira Insightz offers a modular ERP-lite platform designed for SMEs and NGOs seeking **automated data collection**, **cloud-based storage**, and **insightful reporting** — all without the complexity of traditional ERP systems.
